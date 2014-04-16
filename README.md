@@ -4,7 +4,7 @@ OCGeneric
 Basis Generic Support in Objective-C.
 
 Declaring an faked NSMuatbleArray like this
-``` objc
+``` Objective-C
 NSMutableArray(NSString) *strAry = [[NSMutableArray(NSString) alloc] init];
 NSMutableArray(NSNumber) *numberAry = [[NSMutableArray(NSNumber) alloc] init];
 ```
