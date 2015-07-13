@@ -20,7 +20,7 @@ Basis Generic Support in Objective-C.
 
 * Type Recognize
 
-    The Xcode will figure out the wrong type when you want to add a NSnumber object into an NSStirng Array
+    The Xcode will figure out the wrong type when you want to add a NSNumber object into an NSString Array
 
 ![2014-04-16 4 52 40](https://cloud.githubusercontent.com/assets/3711488/2717694/83a20fea-c544-11e3-9345-5d88f8417185.png)
 
